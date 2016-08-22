@@ -15,4 +15,9 @@ To build:
 - `npm install webpack -g`
 - `npm start`
 - navigate to localhost:8080
+- 
+
+Pending
+===============
+Express JS server also need to be incorporated for CRUD operations.
 
